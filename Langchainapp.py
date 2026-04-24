@@ -1,4 +1,4 @@
- import os
+import os
 
 # Force the use of the Python-based protobuf implementation
 
