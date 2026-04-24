@@ -1,3 +1,7 @@
+pip install streamlit langchain openai tiktoken
+pip install langchain-openai langchain-chroma
+pip install langchain-classic
+
 import streamlit as st
 from langchain_community.llms import OpenAI
 from langchain_text_splitters import RecursiveCharacterTextSplitter
